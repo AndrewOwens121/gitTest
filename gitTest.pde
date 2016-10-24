@@ -9,4 +9,7 @@ void draw(){
   
   
    rect(50,50,50,50);
+   ellipse(width/2,height/2,20,70);
+  ellipse(width/2,height/2,50,170);
+   
 }
